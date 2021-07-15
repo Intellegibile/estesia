@@ -1,2 +1,2 @@
 # estesia
-Motore grafico e fisico 
+Il repository mira a creare un motore grafico e fisico altamente flessibile e ottimizzato
